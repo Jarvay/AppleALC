@@ -2,7 +2,14 @@ AppleALC Changelog
 ==================
 #### v1.5.9
 - Added CS4206 layout-id 24 and 60
-- Added 500 Series (0xF0C8) PCH HD Audio Controller
+- Added 500 Series (0xF0C8 Z590 + Intel 10 Gen) PCH HD Audio Controller
+- Added 500 Series (0x43C8 Z590 + Intel 11 Gen) PCH HD Audio Controller
+- Added ALC289 layout-id 87 for Alienware m15 by GitNaufal
+- Added ALC289 layout-id 15 for Dell 7730 Precision CM240 by MacPeet
+- Added ALC897 layout-id 69 for MSI-Z490-A Pro by mathcampbell
+- Added IDT 92HD95 layout-id 14 for LenovoG710 by Svilen88
+- Added ALC235 layout-id 18 for asrock 310 bb by viorel78
+- Added controller patch for 100 Series (8086:A170) by dhinakg
 
 #### v1.5.8
 - Improved resource packaging by stripping optional tags
