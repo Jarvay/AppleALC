@@ -30,6 +30,14 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
+				<string>HafidzRadhival - DELL Vostro 5468 ALC256 (3246)</string>
+				<key>Id</key>
+				<integer>12</integer>
+				<key>Path</key>
+				<string>layout12.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>Insanelydeepak - Realtek ALC256 (3246) for Dell Series</string>
 				<key>Id</key>
 				<integer>13</integer>
@@ -102,11 +110,27 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
+				<string>Andres ZeroCross - Intel NUC NUC10i5FNH</string>
+				<key>Id</key>
+				<integer>24</integer>
+				<key>Path</key>
+				<string>layout24.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>vusun123 - ALC256 for Asus X555UJ</string>
 				<key>Id</key>
 				<integer>28</integer>
 				<key>Path</key>
 				<string>layout28.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>insanelyme - ALC256 for Huawei Matebook D15 2018 (MRC-W10)</string>
+				<key>Id</key>
+				<integer>33</integer>
+				<key>Path</key>
+				<string>layout33.xml.zlib</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -196,6 +220,22 @@
 				<key>Path</key>
 				<string>layout99.xml.zlib</string>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Littlesum - Realtek ALC256 (3246) for Nuc9</string>
+				<key>Id</key>
+				<integer>68</integer>
+				<key>Path</key>
+				<string>layout68.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Floron - Realtek ALC256 (3246) for Honor MagicBook Pro HBB-WAH9</string>
+				<key>Id</key>
+				<integer>95</integer>
+				<key>Path</key>
+				<string>layout95.xml.zlib</string>
+			</dict>
 		</array>
 		<key>Platforms</key>
 		<array>
@@ -214,6 +254,14 @@
 				<integer>11</integer>
 				<key>Path</key>
 				<string>Platforms11.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>HafidzRadhival - DELL Vostro 5468 ALC256 (3246)</string>
+				<key>Id</key>
+				<integer>12</integer>
+				<key>Path</key>
+				<string>Platforms12.xml.zlib</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -289,11 +337,27 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
+				<string>Andres ZeroCross - Intel NUC NUC10i5FNH</string>
+				<key>Id</key>
+				<integer>24</integer>
+				<key>Path</key>
+				<string>Platforms24.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>vusun123 - ALC256 for Asus X555UJ</string>
 				<key>Id</key>
 				<integer>28</integer>
 				<key>Path</key>
 				<string>Platforms28.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>insanelyme - ALC256 for Huawei Matebook D15 2018 (MRC-W10)</string>
+				<key>Id</key>
+				<integer>33</integer>
+				<key>Path</key>
+				<string>Platforms33.xml.zlib</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -382,6 +446,22 @@
 				<integer>99</integer>
 				<key>Path</key>
 				<string>Platforms99.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Littlesum - Realtek ALC256 (3246) for Nuc9</string>
+				<key>Id</key>
+				<integer>68</integer>
+				<key>Path</key>
+				<string>Platforms68.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Floron - Realtek ALC256 (3246) for Honor MagicBook Pro HBB-WAH9</string>
+				<key>Id</key>
+				<integer>95</integer>
+				<key>Path</key>
+				<string>Platforms95.xml.zlib</string>
 			</dict>
 		</array>
 	</dict>

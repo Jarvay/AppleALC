@@ -110,6 +110,14 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
+				<string>ALC892 for ASRock B365 Pro4 By TheHackGuy</string>
+				<key>Id</key>
+				<integer>23</integer>
+				<key>Path</key>
+				<string>layout23.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>ALC892 for Clevo P751DMG by Cryse Hillmes</string>
 				<key>Id</key>
 				<integer>28</integer>
@@ -174,7 +182,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>Custom ALC892 for MSI Z370-A PRO by GeorgeWan</string>
+				<string>GeorgeWan - ALC892 for MSI-Z370-A PRO</string>
 				<key>Id</key>
 				<integer>100</integer>
 				<key>Path</key>
@@ -289,6 +297,14 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
+				<string>ALC892 for ASRock B365 Pro4 By TheHackGuy</string>
+				<key>Id</key>
+				<integer>23</integer>
+				<key>Path</key>
+				<string>Platforms23.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>ALC892 for Clevo P751DMG by Cryse Hillmes</string>
 				<key>Id</key>
 				<integer>28</integer>
@@ -353,7 +369,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>Custom ALC892 for MSI Z370-A PRO by GeorgeWan</string>
+				<string>GeorgeWan - ALC892 for MSI-Z370-A PRO</string>
 				<key>Id</key>
 				<integer>100</integer>
 				<key>Path</key>
