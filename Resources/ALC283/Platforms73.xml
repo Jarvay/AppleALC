@@ -9,7 +9,7 @@
 		</dict>
 		<dict>
 			<key>DeviceID</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>DeviceType</key>
 			<string>Microphone</string>
 		</dict>
@@ -50,17 +50,17 @@
 									<true/>
 								</dict>
 								<key>NodeID</key>
-								<integer>7</integer>
+								<integer>8</integer>
 							</dict>
 							<dict>
 								<key>NodeID</key>
-								<integer>36</integer>
+								<integer>35</integer>
 							</dict>
 							<dict>
 								<key>Boost</key>
-								<integer>1</integer>
+								<integer>3</integer>
 								<key>NodeID</key>
-								<integer>18</integer>
+								<integer>25</integer>
 							</dict>
 						</array>
 					</array>
@@ -101,10 +101,8 @@
 								<integer>35</integer>
 							</dict>
 							<dict>
-								<key>Boost</key>
-								<integer>2</integer>
 								<key>NodeID</key>
-								<integer>24</integer>
+								<integer>26</integer>
 							</dict>
 						</array>
 					</array>
@@ -113,6 +111,17 @@
 					<array>
 						<array>
 							<dict>
+								<key>Amp</key>
+								<dict>
+									<key>MuteInputAmp</key>
+									<true/>
+									<key>PublishMute</key>
+									<false/>
+									<key>PublishVolume</key>
+									<false/>
+									<key>VolumeInputAmp</key>
+									<false/>
+								</dict>
 								<key>NodeID</key>
 								<integer>20</integer>
 							</dict>
@@ -122,9 +131,9 @@
 									<key>MuteInputAmp</key>
 									<true/>
 									<key>PublishMute</key>
-									<true/>
+									<false/>
 									<key>PublishVolume</key>
-									<true/>
+									<false/>
 									<key>VolumeInputAmp</key>
 									<false/>
 								</dict>
@@ -166,8 +175,19 @@
 					<array>
 						<array>
 							<dict>
+								<key>Amp</key>
+								<dict>
+									<key>MuteInputAmp</key>
+									<true/>
+									<key>PublishMute</key>
+									<false/>
+									<key>PublishVolume</key>
+									<false/>
+									<key>VolumeInputAmp</key>
+									<false/>
+								</dict>
 								<key>NodeID</key>
-								<integer>21</integer>
+								<integer>33</integer>
 							</dict>
 							<dict>
 								<key>Amp</key>
@@ -175,9 +195,9 @@
 									<key>MuteInputAmp</key>
 									<true/>
 									<key>PublishMute</key>
-									<true/>
+									<false/>
 									<key>PublishVolume</key>
-									<true/>
+									<false/>
 									<key>VolumeInputAmp</key>
 									<false/>
 								</dict>
@@ -219,7 +239,7 @@
 				</array>
 			</array>
 			<key>PathMapID</key>
-			<integer>293</integer>
+			<integer>73</integer>
 		</dict>
 	</array>
 </dict>

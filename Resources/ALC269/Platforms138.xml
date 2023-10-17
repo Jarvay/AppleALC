@@ -50,17 +50,17 @@
 									<true/>
 								</dict>
 								<key>NodeID</key>
-								<integer>7</integer>
+								<integer>9</integer>
 							</dict>
 							<dict>
 								<key>NodeID</key>
-								<integer>36</integer>
+								<integer>34</integer>
 							</dict>
 							<dict>
 								<key>Boost</key>
-								<integer>1</integer>
+								<integer>3</integer>
 								<key>NodeID</key>
-								<integer>18</integer>
+								<integer>25</integer>
 							</dict>
 						</array>
 					</array>
@@ -102,7 +102,7 @@
 							</dict>
 							<dict>
 								<key>Boost</key>
-								<integer>2</integer>
+								<integer>3</integer>
 								<key>NodeID</key>
 								<integer>24</integer>
 							</dict>
@@ -113,6 +113,17 @@
 					<array>
 						<array>
 							<dict>
+								<key>Amp</key>
+								<dict>
+									<key>MuteInputAmp</key>
+									<true/>
+									<key>PublishMute</key>
+									<true/>
+									<key>PublishVolume</key>
+									<true/>
+									<key>VolumeInputAmp</key>
+									<false/>
+								</dict>
 								<key>NodeID</key>
 								<integer>20</integer>
 							</dict>
@@ -166,6 +177,17 @@
 					<array>
 						<array>
 							<dict>
+								<key>Amp</key>
+								<dict>
+									<key>MuteInputAmp</key>
+									<true/>
+									<key>PublishMute</key>
+									<true/>
+									<key>PublishVolume</key>
+									<true/>
+									<key>VolumeInputAmp</key>
+									<false/>
+								</dict>
 								<key>NodeID</key>
 								<integer>21</integer>
 							</dict>
@@ -182,7 +204,7 @@
 									<false/>
 								</dict>
 								<key>NodeID</key>
-								<integer>13</integer>
+								<integer>12</integer>
 							</dict>
 							<dict>
 								<key>Amp</key>
@@ -212,14 +234,14 @@
 									<false/>
 								</dict>
 								<key>NodeID</key>
-								<integer>3</integer>
+								<integer>2</integer>
 							</dict>
 						</array>
 					</array>
 				</array>
 			</array>
 			<key>PathMapID</key>
-			<integer>293</integer>
+			<integer>138</integer>
 		</dict>
 	</array>
 </dict>
