@@ -1,5 +1,21 @@
 AppleALC Changelog
 ==================
+#### v1.8.9
+- Added ALC255 layout-id 80 for Acer Aspire 7 A715-42G AMD by Long5436
+- Added ALC256 layout-id 38 for Samsung Galaxy Book NT750XDA-KF59U by lshbluesky
+- Added ALC289 layout-id 13 for XPS 15 9500 with 4 speakers by wern-apfel
+- Added ALC892 layout-id 11 for MSI GF72-8RE by wern-apfel
+- Added ALC287 layout-id 13 for Legion 5 Pro (R9000p) by isKoi
+- Added ALCS1220A layout-id 99 for MSI X470 Gaming Pro Carbon MS-7B78 by hoangtu92
+- Added ALC286 layout-id 69 for HP Pavilion Wave 600 A058cn by R-a-s-c-a-l
+
+#### v1.8.8
+- Added patch for AMD ZEN to fix microphone issue by qhuyduong
+
+#### v1.8.7
+- Added IDT 92HD81B1X5 layout-ID 76 for HP Elitebook 8x70 series by SkyrilHD
+- Fixed ALC256 layout-ID 68  for NUC 9 by littlesum 
+
 #### v1.8.6
 - Fixed layout55 ALC236 for HP240G8 by 8DireZ3
 - Added ALC269 layout-id 138 for Lenovo G480 by aa820t
